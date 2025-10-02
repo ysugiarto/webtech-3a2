@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(0, 255, 47);
+}
+
+p {
+    color: rgb(33, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+table {
+    width: 100%;
+}
+
+.fore-color {
+    color: crimson;
+}
+
+#it-1 {
+    background-color: blue;
+}
+
+.left-div {
+    background-color: burlywood;
+}
